@@ -13,6 +13,8 @@ import hudson.util.Secret
 import jenkins.model.*
 
 /**
+ * 
+ *
  * Contains the configuration methods of the jenkins component
  * <p>
  *     The main purpose collecting configuration methods.
