@@ -13,10 +13,8 @@ import hudson.util.Secret
 import jenkins.model.*
 
 /**
-<<<<<<< HEAD
-=======
+ * test
  * 
->>>>>>> c0534b3d8bfb619de7eb4ffef6f0ccb7c8040166
  *
  * Contains the configuration methods of the jenkins component
  * <p>
